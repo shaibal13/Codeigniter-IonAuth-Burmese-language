@@ -1,8 +1,11 @@
 <?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 /**
-* Name:  Auth Lang - English
+* Name:  Auth Lang - Burmese
 *
-* Author: Ben Edmunds
+* Author: Shaibal Saha
+* 		  sahashaibal22@gmail.com
+*         @shaibal13
+inspired Author: Ben Edmunds
 * 		  ben.edmunds@gmail.com
 *         @benedmunds
 *
@@ -13,7 +16,7 @@
 *
 * Created:  03.09.2013
 *
-* Description:  English language file for Ion Auth example views
+* Description:  Burmese language file for Ion Auth example views
 *
 */
 
