@@ -2,16 +2,17 @@
 /**
 * Name:  Auth Lang - Burmese
 *
-* Author: Shaibal Saha
-* 		  sahashaibal22@gmail.com
-*         @shaibal13
-inspired Author: Ben Edmunds
+* 
+ Author: Ben Edmunds
 * 		  ben.edmunds@gmail.com
 *         @benedmunds
 *
 * Author: Daniel Davis
 *         @ourmaninjapan
-*
+
+*File Author: Shaibal Saha
+* 		  sahashaibal22@gmail.com
+*         @shaibal13
 * Location: http://github.com/benedmunds/ion_auth/
 *
 * Created:  03.09.2013
