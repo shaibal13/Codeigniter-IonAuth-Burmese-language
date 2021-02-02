@@ -21,7 +21,7 @@ inspired Author: Ben Edmunds
 */
 
 // Errors
-$lang['error_csrf'] = 'This form post did not pass our security checks.';
+$lang['error_csrf'] = 'ဤပုံစံစာပို့သည်ကျွန်ုပ်တို့၏လုံခြုံရေးစစ်ဆေးမှုများကိုမအောင်မြင်ခဲ့ပါ.';
 
 // Login
 $lang['login_heading']         = 'လော့ဂ်အင်';
